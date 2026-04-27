@@ -1,6 +1,14 @@
-title: Dengchi_Ai
-logo: /assets/img/logo.png
+title: 艾蹬驰 Dengchi_Ai
+logo: /assets/img/FP.jpg
 description: This is my personal pages
 show_downloads: true
-google_analytics:
+google_analytics: <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9TFQCLCR4V"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9TFQCLCR4V');
+</script>
 theme: jekyll-theme-minimal
