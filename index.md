@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+[🌐 English Version](/en/index.md)
 # 欢迎来到我的个人主页
 
 你好！我是一名专注于**数据驱动与商业战略**的分析师/产品经理。
