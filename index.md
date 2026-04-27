@@ -2,118 +2,37 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 欢迎来到我的个人主页
 
-[Link to another page](./another-page.html).
+你好！我是一名专注于**数据驱动与商业战略**的分析师/产品经理。
+拥有扎实的商业管理基础，擅长使用 Python 和 SQL 将海量底层数据转化为可落地的商业洞察。
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 📊 核心数据分析项目
 
-# Header 1
+### 1. 游戏 IP 衍生品商业分析与趋势预测
+* **业务背景**：评估二级市场中特定游戏 IP 衍生品的供需缺口。
+* **分析方法**：利用 Python 爬取交易平台 API 数据，并运用 SVD（奇异值分解）构建趋势模型。
+* **商业结论**：精准定位了市场供给空白，为衍生品品类拓展提供了量化支持。
+* [👉 点击查看完整分析报告](#) | [👉 体验 Streamlit 动态数据看板](#)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 2. 宠物丧葬服务市场消费洞察
+* **业务背景**：探索新兴宠物服务赛道的商业潜力与用户分层。
+* **分析方法**：设计市场调研问卷，运用探索性因子分析 (EFA) 降维，并使用 K-Means 进行聚类分析。
+* **商业结论**：输出了清晰的细分用户画像，并针对高价值客群提出了差异化的服务定价策略。
+* [👉 点击查看完整分析报告](#)
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 🎨 个人特质与爱好
 
-### Header 3
+数据之外，我也非常注重创造力与专注力的培养。
+* 🏇 **策略与竞技**：重度 MOBA 与战术射击游戏玩家，对游戏商业化设计与玩家心理有深度观察。
+* 🛠️ **手工皮具雕刻**：专注于宠物主题的皮雕创作，这项爱好锻炼了我对细节的极致把控和长线任务的耐心。
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
+---
+📫 **联系方式**：[你的邮箱] | [你的 LinkedIn 链接]
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
